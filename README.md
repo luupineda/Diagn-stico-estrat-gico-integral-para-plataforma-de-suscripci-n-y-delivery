@@ -1,1 +1,1 @@
-# Diagn-stico-estrat-gico-integral-para-plataforma-de-suscripci-n-y-delivery
+# Diagnóstico-estratégico-integral-para-plataforma-de-suscripción-y-delivery
