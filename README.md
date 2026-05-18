@@ -3,7 +3,6 @@ La suscripción Plus es un servicio dentro del ecosistema de la plataforma de de
 ¿Los usuarios realmente compran más?
 ¿El modelo está generando ganancias?
 ¿Se están perdiendo oportunidades en el proceso de compra?
-Además, 
 
 **Objetivo:** Realizar un diagnóstico integral para la plataforma respondiendo a las dudas clave.
 
