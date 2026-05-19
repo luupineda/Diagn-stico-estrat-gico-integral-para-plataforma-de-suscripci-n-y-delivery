@@ -7,8 +7,7 @@ La suscripción Plus es un servicio dentro del ecosistema de la plataforma de de
 **Objetivo:** Realizar un diagnóstico integral para la plataforma respondiendo a las dudas clave.
 
 ### Herramientas
-🛠 Python | Numpy | Matplotlib | Seaborn | Jupyter Notebook | SQL | Power Bi | Tableau
-
+🛠 Python | Numpy | Matplotlib | Seaborn | Jupyter Notebook | SQL | Power Bi 
 ### Preguntas Clave
 1. ¿Estamos ganando dinero?
 2. ¿Dónde se pierden los usuarios? ¿Los usuarios regresan?
